@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "file_id": 4,
+        "user_id": 1,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-19 19:46:38.347967",
+        "granted_by": 2
+    },
+    {
+        "id": 2,
+        "file_id": 5,
+        "user_id": 1,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-19 19:55:20.225924",
+        "granted_by": 3
+    },
+    {
+        "id": 3,
+        "file_id": 5,
+        "user_id": 2,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-19 19:55:27.246352",
+        "granted_by": 3
+    },
+    {
+        "id": 4,
+        "file_id": 2,
+        "user_id": 4,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-19 20:52:32.765167",
+        "granted_by": 2
+    },
+    {
+        "id": 5,
+        "file_id": 6,
+        "user_id": 6,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 09:35:35.512896",
+        "granted_by": 5
+    },
+    {
+        "id": 6,
+        "file_id": 8,
+        "user_id": 5,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 12:54:55.966729",
+        "granted_by": 6
+    },
+    {
+        "id": 7,
+        "file_id": 11,
+        "user_id": 6,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 14:21:41.412141",
+        "granted_by": 5
+    },
+    {
+        "id": 8,
+        "file_id": 22,
+        "user_id": 6,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 15:12:21.111162",
+        "granted_by": 5
+    },
+    {
+        "id": 9,
+        "file_id": 22,
+        "user_id": 7,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 15:17:10.908033",
+        "granted_by": 5
+    },
+    {
+        "id": 10,
+        "file_id": "uploads\\ 26_enc.jpg",
+        "user_id": 5,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 15:52:58.441246",
+        "granted_by": 6
+    },
+    {
+        "id": 11,
+        "file_id": "/home/maha/pbc-0.5.14/charm/Copy_FlaskProj/uploads/29_enc.jpg",
+        "user_id": 5,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 15:55:20.903699",
+        "granted_by": 7
+    },
+    {
+        "id": 12,
+        "file_id": "2976dfddc76b58aff1a250bbf2ea128f85d4588b47516b26515a65d8b873eeb0",
+        "user_id": 7,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 16:39:38.550909",
+        "granted_by": 5
+    },
+    {
+        "id": 13,
+        "file_id": 30,
+        "user_id": 5,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 17:18:10.667961",
+        "granted_by": 7
+    },
+    {
+        "id": 14,
+        "file_id": 32,
+        "user_id": 7,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 17:25:22.811430",
+        "granted_by": 5
+    },
+    {
+        "id": 15,
+        "file_id": 34,
+        "user_id": 5,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 18:04:32.028613",
+        "granted_by": 7
+    },
+    {
+        "id": 16,
+        "file_id": 36,
+        "user_id": 5,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 18:08:36.636126",
+        "granted_by": 7
+    },
+    {
+        "id": 17,
+        "file_id": 37,
+        "user_id": 6,
+        "ciphertext_id": "CT0",
+        "granted_at": "2025-03-20 18:26:54.203995",
+        "granted_by": 5
+    }
+]
